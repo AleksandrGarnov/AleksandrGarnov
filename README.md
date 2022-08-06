@@ -5,8 +5,11 @@
 ## Tools
 Git Bash, MySQL, Fiddler, Visual Studio Code, Sublime Text, HTML/CSS, Bootstrap, DevTools, Jenkins, Postman, Java Script
 
-## Follow me:
+## Contact:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-072ACB?style=for-the-badge&logo=LinkedIn&logoColor=010101)](https://www.linkedin.com/in/aleksandr-garnov-89a844237/)
 [![Telegram](https://img.shields.io/badge/-Telegram-072ACB?style=for-the-badge&logo=Telegram&logoColor=010101)](https://t.me/aleksroman16)
 [![Instagram](https://img.shields.io/badge/-Instagram-072ACB?style=for-the-badge&logo=Instagram&logoColor=010101)](https://instagram.com/alexsanderromanovich)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AleksandrGarnov=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api??AleksandrGarnov=anuraghazra&show_icons=true) (https://github-readme-stats.vercel.app/api?AleksandrGarnov=anuraghazra&show_icons=true&theme=radical)
