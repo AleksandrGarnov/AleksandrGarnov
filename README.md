@@ -12,6 +12,6 @@ Git Bash, MySQL, Fiddler, Visual Studio Code, Sublime Text, HTML/CSS, Bootstrap,
 
 [![Instagram](https://img.shields.io/badge/-Instagram-072ACB?style=for-the-badge&logo=Instagram&logoColor=010101)](https://instagram.com/alexsanderromanovich)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandrGarnov)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandrGarnov)](https://github.com/AleksandrGarnov/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrGarnov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
