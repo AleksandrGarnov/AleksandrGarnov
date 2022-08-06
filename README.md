@@ -4,7 +4,7 @@
 
 Language and Tools
 
-Follow me
+###Follow me
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-072ACB?style=for-the-badge&logo=LinkedIn&logoColor=010101)
 ![Telegram](https://img.shields.io/badge/-Telegram-072ACB?style=for-the-badge&logo=Telegram&logoColor=010101)
