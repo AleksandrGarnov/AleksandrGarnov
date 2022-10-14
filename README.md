@@ -3,7 +3,7 @@
 ## QA Engineer
 
 ## Tools
-Git Bash, MySQL, Fiddler, Visual Studio Code, Sublime Text, HTML/CSS, Bootstrap, DevTools, Jenkins, Postman, Java Script
+Git, MySQL, Fiddler, Visual Studio Code, Sublime Text, HTML/CSS, Bootstrap, DevTools, Jenkins, Postman, JavaScript, JIRA
 
 ## Contact:
 
