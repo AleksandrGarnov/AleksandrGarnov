@@ -2,6 +2,9 @@
 
 ## QA Engineer
 
+## My CV
+[Link to my CV](https://drive.google.com/drive/folders/1qMEDfheXwqFyp9conP9LbHY8sWeDcciF?usp=sharing)
+
 ## Tools
 Git, MySQL, Fiddler, Visual Studio Code, Sublime Text, HTML/CSS, Bootstrap, DevTools, Jenkins, Postman, JavaScript, JIRA
 
