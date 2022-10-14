@@ -17,6 +17,8 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/SOAPUI-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+
 
 ## Testing Documentation
 - [Checklists](https://github.com/AleksandrGarnov/CheckLists.git)
@@ -25,7 +27,7 @@
 
 ## Contact:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-072ACB?style=for-the-badge&logo=LinkedIn&logoColor=010101)](https://www.linkedin.com/in/aleksandr-garnov-89a844237/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-072ACB?style=for-the-badge&logo=LinkedIn&logoColor=010101)](https://www.linkedin.com/in/aleksandr-garnov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-072ACB?style=for-the-badge&logo=Telegram&logoColor=010101)](https://t.me/aleksroman16)
 [![Instagram](https://img.shields.io/badge/-Instagram-072ACB?style=for-the-badge&logo=Instagram&logoColor=010101)](https://instagram.com/alexsanderromanovich)
  
