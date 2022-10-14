@@ -19,9 +19,9 @@
 ![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ## Testing Documentation
-![Checklists](https://github.com/AleksandrGarnov/CheckLists.git)
-![Bug report](https://github.com/AleksandrGarnov/Bug-report.git)
-![SQL Queries](https://github.com/AleksandrGarnov/Epam-MySQL-Practice.git)
+[Checklists](https://github.com/AleksandrGarnov/CheckLists.git)
+[Bug report](https://github.com/AleksandrGarnov/Bug-report.git)
+[SQL Queries](https://github.com/AleksandrGarnov/Epam-MySQL-Practice.git)
 
 ## Contact:
 
