@@ -25,7 +25,7 @@
 - [Checklists](https://github.com/AleksandrGarnov/CheckLists.git)
 - [Bug report](https://github.com/AleksandrGarnov/Bug-report.git)
 - [SQL Queries](https://github.com/AleksandrGarnov/Epam-MySQL-Practice.git)
-- [Test Cases] (https://github.com/AleksandrGarnov/Test-Cases.git)
+- [Test Cases](https://github.com/AleksandrGarnov/Test-Cases.git)
 
 ## Contact:
 
