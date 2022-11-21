@@ -3,7 +3,7 @@
 ## QA Engineer
 
 ## My CV
-[Link to my CV](https://drive.google.com/drive/folders/1qMEDfheXwqFyp9conP9LbHY8sWeDcciF?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1vmGcpsW1jDOkttTTgo45rJSwSICA9xJ4/view?usp=share_link)
 
 ## Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
