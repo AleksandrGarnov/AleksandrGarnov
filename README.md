@@ -22,15 +22,17 @@
 
 
 ## Testing Documentation
-- [Checklists](https://github.com/AleksandrGarnov/CheckLists.git)
-- [Bug report](https://github.com/AleksandrGarnov/Bug-report.git)
+- [Smoke Tests Checklist](https://docs.google.com/spreadsheets/d/1XtTGHHapkD0-80wIiDR4Ax2Xf64kPE7O43mDgrJ6pGY/edit?usp=sharing)
+- [End to End Tests Test Cases](https://docs.google.com/spreadsheets/d/1f1zlqaOua0whIbHvY536njufji7VK48JIq04OwJOf70/edit?usp=share_link))
+- [Regression Tests](https://docs.google.com/spreadsheets/d/1XtTGHHapkD0-80wIiDR4Ax2Xf64kPE7O43mDgrJ6pGY/edit?usp=sharing)
+- [Bug report](https://docs.google.com/spreadsheets/d/18J1TvqN52sWzcmbHjZooTLjqbUxd9ZphOVq2XKO84bU/edit?usp=sharing))
 - [SQL Queries](https://github.com/AleksandrGarnov/Epam-MySQL-Practice.git)
-- [Test Cases](https://github.com/AleksandrGarnov/Test-Cases.git)
+
 
 ## Contact:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-072ACB?style=for-the-badge&logo=LinkedIn&logoColor=010101)](https://www.linkedin.com/in/aleksandr-garnov/)
-[![Telegram](https://img.shields.io/badge/-Telegram-072ACB?style=for-the-badge&logo=Telegram&logoColor=010101)](https://t.me/aleksroman16)
+[![Telegram](https://img.shields.io/badge/-Telegram-072ACB?style=for-the-badge&logo=Telegram&logoColor=010101)](https://t.me/vurburq)
 [![Instagram](https://img.shields.io/badge/-Instagram-072ACB?style=for-the-badge&logo=Instagram&logoColor=010101)](https://instagram.com/alexsanderromanovich)
  
 
