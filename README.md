@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=320&size=55&pause=1000&width=600&height=61&lines=Aleksandr + Garnov)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=320&size=55&pause=1000&width=600&height=61&lines=Aleksandr+Garnov)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=320&size=40&pause=1000&width=600&height=61&lines=QA+Engineer)](https://git.io/typing-svg)
 
