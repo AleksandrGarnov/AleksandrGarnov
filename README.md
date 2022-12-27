@@ -1,6 +1,8 @@
 ![header](https://github.com/AleksandrGarnov/AleksandrGarnov/blob/master/assets/aleksandrgarnov%20(2).png)
 
-## QA Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Enginner;&font=Fira%20Code&center=true&width=380&height=50&duration=40000&pause=100">
+</p>
 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1qJ0hxQPyLhalHkKv5cn_dxLbAB-1BXcf/view?usp=share_link)
