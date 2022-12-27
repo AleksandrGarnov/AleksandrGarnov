@@ -1,7 +1,7 @@
 ![header](https://github.com/AleksandrGarnov/AleksandrGarnov/blob/master/assets/aleksandrgarnov%20(2).png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Enginner;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Enginner;&font=Fira%20Code&center=true&width=520&height=100&duration=4000&pause=1000">
 </p>
 
 ## My CV
