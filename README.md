@@ -1,8 +1,6 @@
 ![header](https://github.com/AleksandrGarnov/AleksandrGarnov/blob/master/assets/aleksandrgarnov%20(2).png)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=QA+Engineer;&font=Fira%45Code&center=true&width=300&height=100&duration=4000&pause=1000">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=320&size=45&pause=1000&width=500&height=61&lines=QA+Engineer)](https://git.io/typing-svg)
 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1qJ0hxQPyLhalHkKv5cn_dxLbAB-1BXcf/view?usp=share_link)
