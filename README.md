@@ -26,7 +26,7 @@
 - [Regression Test Checklist](https://docs.google.com/spreadsheets/d/1XtTGHHapkD0-80wIiDR4Ax2Xf64kPE7O43mDgrJ6pGY/edit?usp=sharing)
 - [Bug report](https://docs.google.com/spreadsheets/d/18J1TvqN52sWzcmbHjZooTLjqbUxd9ZphOVq2XKO84bU/edit?usp=sharing)
 - [SQL Queries](https://github.com/AleksandrGarnov/Epam-MySQL-Practice.git)
-- [Postman Requests](https://github.com/AleksandrGarnov/Postman_HW/tree/master/HW_1)
+- [Postman Requests](https://github.com/AleksandrGarnov/Postman_HW)
 
 
 ## Contact:
