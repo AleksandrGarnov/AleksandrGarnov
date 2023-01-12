@@ -36,5 +36,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-072ACB?style=for-the-badge&logo=Instagram&logoColor=010101)](https://instagram.com/alexsanderromanovich)
  
 
-[![Top Langs]([![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AleksandrGarnov&theme=dark&background=000000)](https://git.io/streak-stats))
+[![Top Langs](http://github-readme-streak-stats.herokuapp.com?user=AleksandrGarnov&theme=dark&background=000000)](https://git.io/streak-stats)
 
