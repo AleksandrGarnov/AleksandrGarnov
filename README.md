@@ -35,5 +35,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-072ACB?style=for-the-badge&logo=Instagram&logoColor=010101)](https://instagram.com/alexsanderromanovich)
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrGarnov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrGarnov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
