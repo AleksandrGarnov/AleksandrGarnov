@@ -24,6 +24,7 @@
 - [Smoke Tests Checklist](https://docs.google.com/spreadsheets/d/1xuFpEkvD36jc0yAbg68t0xOzC1WKggQT5ldbEcSUvKI/edit?usp=sharing)
 - [End to End Tests Test Cases](https://docs.google.com/spreadsheets/d/1f1zlqaOua0whIbHvY536njufji7VK48JIq04OwJOf70/edit?usp=share_link)
 - [Regression Test Checklist](https://docs.google.com/spreadsheets/d/1XtTGHHapkD0-80wIiDR4Ax2Xf64kPE7O43mDgrJ6pGY/edit?usp=sharing)
+- [Bug Reports](https://docs.google.com/spreadsheets/d/18J1TvqN52sWzcmbHjZooTLjqbUxd9ZphOVq2XKO84bU/edit?usp=share_link)
 - [SQL Queries](https://github.com/AleksandrGarnov/Epam-MySQL-Practice.git)
 - [Postman Requests](https://github.com/AleksandrGarnov/Postman_HW)
 
